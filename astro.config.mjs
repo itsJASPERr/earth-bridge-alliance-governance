@@ -4,12 +4,20 @@ import react from '@astrojs/react';
 import keystatic from '@keystatic/astro';
 import node from '@astrojs/node';
 
-// `output: "hybrid"` was removed in Astro 5+. `output: "static"` now behaves
-// identically — individual routes (e.g. Keystatic admin/API) opt into SSR via
-// `prerender: false`. The Node adapter serves those on-demand routes.
+// When building for GitHub Pages (GITHUB_PAGES=true) we produce a fully static
+// site: the Node adapter and Keystatic's SSR admin routes are omitted because
+// GitHub Pages only serves static files. Locally, the Node adapter enables the
+// Keystatic admin dashboard at /keystatic.
+const isGitHubPages = process.env.GITHUB_PAGES === 'true';
+
 export default defineConfig({
+  // Canonical URL for the GitHub Pages deployment.
+  site: 'https://itsJASPERr.github.io',
+  // Sub-path matching the repository name on GitHub Pages.
+  base: '/earth-bridge-alliance-governance',
   output: 'static',
-  adapter: node({ mode: 'standalone' }),
+  // Adapter is only needed for Keystatic's on-demand SSR routes (local dev).
+  adapter: isGitHubPages ? undefined : node({ mode: 'standalone' }),
   integrations: [
     starlight({
       title: 'NGO Bylaws & Constitution',
@@ -21,6 +29,8 @@ export default defineConfig({
       ],
     }),
     react(),
-    keystatic(),
+    // Keystatic injects routes with `prerender: false`; exclude it from the
+    // fully-static GitHub Pages build where SSR is not available.
+    ...(isGitHubPages ? [] : [keystatic()]),
   ],
 });
