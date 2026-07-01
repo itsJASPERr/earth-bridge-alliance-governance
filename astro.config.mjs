@@ -13,8 +13,8 @@ const isGitHubPages = process.env.GITHUB_PAGES === 'true';
 export default defineConfig({
   // Canonical URL for the GitHub Pages deployment.
   site: 'https://itsJASPERr.github.io',
-  // Sub-path matching the repository name on GitHub Pages.
-  base: '/earth-bridge-alliance-governance',
+  // Use repo sub-path on GitHub Pages; use root path locally for DX.
+  base: isGitHubPages ? '/earth-bridge-alliance-governance' : '/',
   output: 'static',
   // Adapter is only needed for Keystatic's on-demand SSR routes (local dev).
   adapter: isGitHubPages ? undefined : node({ mode: 'standalone' }),
