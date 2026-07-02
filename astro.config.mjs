@@ -23,8 +23,32 @@ export default defineConfig({
       title: 'NGO Bylaws & Constitution',
       sidebar: [
         {
-          label: 'Core Governance',
-          items: [{ autogenerate: { directory: 'governance' } }],
+          label: '00-introduction',
+          items: [{ autogenerate: { directory: '00-introduction' } }],
+        },
+        {
+          label: '10-architecture',
+          items: [{ autogenerate: { directory: '10-architecture' } }],
+        },
+        {
+          label: '20-foundation',
+          items: [{ autogenerate: { directory: '20-foundation' } }],
+        },
+        {
+          label: '30-charter',
+          items: [{ autogenerate: { directory: '30-charter' } }],
+        },
+        {
+          label: '40-board',
+          items: [{ autogenerate: { directory: '40-board' } }],
+        },
+        {
+          label: '50-policies',
+          items: [{ autogenerate: { directory: '50-policies' } }],
+        },
+        {
+          label: '60-reference',
+          items: [{ autogenerate: { directory: '60-reference' } }],
         },
       ],
     }),
