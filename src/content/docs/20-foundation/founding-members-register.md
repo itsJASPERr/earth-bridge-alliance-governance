@@ -22,10 +22,8 @@ This register defines the legally recognized founding members of Earth Bridge Al
 
 | member_id | full_name | role | jurisdiction | legal_address | status |
 |-----------|------------|------|--------------|---------------|--------|
-| FM-001 | Jasper Felix Meyer | President | * Strategic + operational authority * Remote execution leadership | Eichenstrasse 16, 27749 Delmenhorst, Nierdsachsen | active |
-| FM-002 | Guillerme | Local administrative delegate (mandataire) OR Vice-President with limited scope | * bank onboarding
-    * physical presence requirements
-    * administrative signatures in France| [TBD] | active |
+| FM-001 | Jasper Felix Meyer | President | Strategic + operational authority<br>Remote execution leadership | Eichenstrasse 16, 27749 Delmenhorst, Niedersachsen | active |
+| FM-002 | Guilherme __________________ | Local administrative delegate (mandataire) OR Vice-President with limited scope | bank onboarding<br>physical presence requirements<br>administrative signatures in France | [TBD] | active |
 
 ---
 
