@@ -16,7 +16,7 @@ export default config({
     governance: collection({
       label: 'Governance',
       slugField: 'title',
-      path: 'src/content/docs/governance/*',
+      path: 'src/content/docs/*',
       format: { contentField: 'content' },
       schema: {
         title: fields.slug({ name: { label: 'Title' } }),

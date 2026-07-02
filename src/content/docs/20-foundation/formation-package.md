@@ -12,9 +12,9 @@ version: 0.1.0
 ## Legal Documents
 
 - [x] Bylaws
-- [ ] Founding Act
-- [ ] Founding Minutes
-- [ ] Founding Members Register
+- [x] Founding Act
+- [x] Founding Minutes
+- [x] Founding Members Register
 
 ## Registration
 
