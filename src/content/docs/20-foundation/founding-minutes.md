@@ -8,6 +8,7 @@ jurisdiction: France (Association Loi 1901)
 entity: Earth Bridge Alliance
 date: 2026-07-02
 location: Remote (video/telephone conference)
+state: pre_execution
 dependencies:
   - bylaws/v0.1.0
   - founding_act/v0.1.0

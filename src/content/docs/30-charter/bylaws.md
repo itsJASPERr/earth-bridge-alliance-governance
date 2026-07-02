@@ -7,6 +7,7 @@ documentType: Charter
 jurisdiction: France (Association Loi 1901)
 owner: Board of Directors
 lastUpdated: 2026-07-02
+state: pre_execution
 ---
 
 # Bylaws of Earth Bridge Alliance

@@ -21,6 +21,16 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'NGO Bylaws & Constitution',
+      locales: {
+        root: {
+          label: "English",
+          lang: "en",
+        },
+        fr: {
+          label: "Français",
+          lang: "fr",
+        },
+      },
       sidebar: [
         {
           label: '00-introduction',
@@ -31,7 +41,7 @@ export default defineConfig({
           items: [{ autogenerate: { directory: '10-architecture' } }],
         },
         {
-          label: '20-foundation',
+          label: '20  Legal Foundation',
           items: [{ autogenerate: { directory: '20-foundation' } }],
         },
         {
