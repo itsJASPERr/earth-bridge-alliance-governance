@@ -34,7 +34,7 @@ Its mission is based on four pillars:
 
 The headquarters of the Association are located at:
 
-**[French address to be determined]**
+**46 boulevard notre dame 13006 Marseille**
 
 The headquarters may be transferred by decision of the Board.
 
