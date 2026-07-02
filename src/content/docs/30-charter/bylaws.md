@@ -1,50 +1,120 @@
 ---
 title: Bylaws
-description: The foundational governing document of the Foundation Earth Bridge Alliance, establishing its purpose, structure, and operating principles.
+description: Constitutional bylaws of Earth Bridge Alliance.
+version: 0.1.0
+status: Draft
+documentType: Charter
+jurisdiction: France (Association Loi 1901)
+owner: Board of Directors
+lastUpdated: 2026-07-02
 ---
 
-## Article I – Name and Purpose
+# Bylaws of Earth Bridge Alliance
 
-### Section 1: Name
+## Article 1 — Name
 
-### Section 2: Mission
+The association is named **Earth Bridge Alliance**.
 
-### Section 3: Purpose
+---
 
-## Article II – Membership
+## Article 2 — Purpose
 
-### Section 1: Eligibility
+The purpose of the Association is to foster sustainable development and cross-cultural exchange by building bridges between Europe and the Putumayo region of Colombia.
 
-### Section 2: Membership Categories
+Its mission is based on four pillars:
 
-### Section 3: Rights and Responsibilities
+- education
+- environmental stewardship
+- community empowerment
+- cultural resilience
 
-## Article III – Governance Structure
+---
 
-### Section 1: Board of Directors
+## Article 3 — Headquarters
 
-### Section 2: Officers
+The headquarters of the Association are located at:
 
-### Section 3: Advisory Council
+**[French address to be determined]**
 
-## Article IV – Meetings
+The headquarters may be transferred by decision of the Board.
 
-### Section 1: Annual General Meeting
+---
 
-### Section 2: Special Meetings
+## Article 4 — Duration
 
-### Section 3: Quorum
+The Association is established for an unlimited duration.
 
-## Article V – Financial Management
+---
 
-### Section 1: Fiscal Year
+## Article 5 — Membership
 
-### Section 2: Budgeting
+Membership is open to any individual or legal entity supporting the purpose of the Association.
 
-### Section 3: Auditing
+Admission and exclusion of members are decided by the Board.
 
-## Article VI – Amendments
+Members may resign at any time in writing.
 
-### Section 1: Proposal of Amendments
+All members have equal voting rights.
 
-### Section 2: Ratification Process
+---
+
+## Article 6 — General Assembly
+
+The General Assembly includes all members of the Association.
+
+It is responsible for:
+
+- approval of the Bylaws and amendments
+- election of the Board
+- approval of annual reports
+- dissolution of the Association
+
+Decisions are taken by majority vote of members present or represented.
+
+---
+
+## Article 7 — Board of Directors
+
+The Association is administered by a Board composed of:
+
+- a President
+- a Treasurer
+
+The Board ensures the daily management of the Association and represents it in all civil matters.
+
+The President is the legal representative of the Association.
+
+The Treasurer manages financial matters under the supervision of the Board.
+
+---
+
+## Article 8 — Resources
+
+The resources of the Association may include:
+
+- membership fees
+- donations
+- grants
+- sponsorships
+- income from activities related to its purpose
+- any other lawful resources
+
+All resources are used exclusively to achieve the nonprofit purpose of the Association.
+
+---
+
+## Article 9 — Amendment
+
+These Bylaws may be amended by decision of the General Assembly.
+
+---
+
+## Article 10 — Dissolution
+
+In case of dissolution, the remaining assets shall be transferred to one or more nonprofit organizations with similar objectives, in accordance with French law.
+
+---
+
+## Article 11 — Final Provisions
+
+These Bylaws are adopted by the founding members and shall come into force upon registration of the Association.
