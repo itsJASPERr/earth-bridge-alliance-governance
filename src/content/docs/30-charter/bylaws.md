@@ -1,5 +1,5 @@
 ---
-title: Constitution
+title: Bylaws
 description: The foundational governing document of the Foundation Earth Bridge Alliance, establishing its purpose, structure, and operating principles.
 ---
 
