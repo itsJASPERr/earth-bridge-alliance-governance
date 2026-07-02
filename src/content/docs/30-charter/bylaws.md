@@ -1,7 +1,7 @@
 ---
 title: Bylaws
 description: Constitutional bylaws of Earth Bridge Alliance.
-version: 0.1.1
+version: 0.1.0
 status: Draft
 documentType: Charter
 jurisdiction: France (Association Loi 1901)
@@ -78,36 +78,13 @@ Decisions are taken by majority vote of members present or represented.
 The Association is administered by a Board composed of:
 
 - a President
+- a Treasurer
 
 The Board ensures the daily management of the Association and represents it in all civil matters.
 
 The President is the legal representative of the Association.
 
 The Treasurer manages financial matters under the supervision of the Board.
-
-### 7.1 — Administrative and Operational Mandate Holder (France)
-
-The Association may appoint one or more natural persons as **Administrative and Operational Mandate Holders**, responsible for carrying out practical administrative functions necessary for the operation of the Association in France.
-
-These mandate holders are appointed by decision of the President or the General Assembly.
-
-#### Duties may include:
-- acting as the physical and administrative representative of the Association before banking institutions in France
-- assisting with the opening and operational management of bank accounts
-- receiving and forwarding official administrative correspondence
-- performing local administrative procedures necessary for the functioning of the Association
-- signing administrative or banking documents strictly within delegated authority
-
-#### Nature of the mandate:
-This mandate is strictly **administrative and operational in nature** and does not confer any governance, strategic, or legal representative authority.
-
-Mandate holders do not participate in the governance or strategic direction of the Association.
-
-#### Limitations:
-All strategic, financial, and governance decisions remain exclusively within the authority of the President and the Board.
-
-#### Liability:
-Mandate holders act solely within the scope of authority expressly delegated to them and bear no responsibility for governance decisions.
 
 ---
 
